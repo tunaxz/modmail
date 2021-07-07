@@ -1,0 +1,23 @@
+{
+  "name": "modmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roffly/modmail.git"
+  },
+  "keywords": [
+    "modmail",
+    "roffly"
+  ],
+  "author": "Roffly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roffly/modmail/issues"
+  },
+  "homepage": "https://github.com/Roffly/modmail#readme"
+}
